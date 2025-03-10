@@ -1,5 +1,5 @@
 .{
-    .name = .mach_glfw,
+    .name = "mach_glfw",
     .fingerprint = 0xa924846d90dac401,
     .version = "0.2.0",
     .paths = .{
