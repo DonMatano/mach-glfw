@@ -1,5 +1,5 @@
 .{
-    .name = "mach_glfw",
+    .name = .mach_glfw,
     .fingerprint = 0xa924846d90dac401,
     .version = "0.2.0",
     .paths = .{
@@ -13,7 +13,7 @@
     },
     .dependencies = .{
         .glfw = .{
-            .url = "https://pkg.machengine.org/glfw/ec656e10d3643a3a71149bb96ae6b0831b84b677.tar.gz",
+            .url = "https://github.com/DonMatano/mata-glfw/#deb0c98733d4e8f5faed15a6eb632b79126f96c1",
             .hash = "12207be469bad84baed2ede75cf89ede37e1ed5ee8be62a54d2b2112c5f56a44cc89",
         },
     },
